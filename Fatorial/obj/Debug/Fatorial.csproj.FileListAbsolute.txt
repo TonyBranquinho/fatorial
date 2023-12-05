@@ -1,0 +1,6 @@
+C:\temp\ws-vs2019\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\temp\ws-vs2019\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\temp\ws-vs2019\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\temp\ws-vs2019\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\temp\ws-vs2019\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
